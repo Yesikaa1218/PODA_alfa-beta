@@ -26,5 +26,5 @@ Este archivo implementa un juego de Tic Tac Toe en el que el jugador puede compe
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <URL del repositorio>
+   git clone <https://github.com/Yesikaa1218/PODA_alfa-beta.git>
    cd poda_alfa_beta
